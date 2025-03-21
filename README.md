@@ -14,7 +14,7 @@
 - 🔭 I primarily work with **HTML, CSS, JavaScript, React (Vite, React Query, Redux), Node.js (Express), MongoDB**.
 - 💻 I also have experience with **Python** and **Java**.
 - 🌎 I love discovering new technologies and working on exciting projects.
-
+- 🏅 I've been training and doing Street Workout for almost 5 years!
 ---
 
 ### [ Technologies & Tools ]
