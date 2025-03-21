@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Profile Banner](https://via.placeholder.com/800x200/0D1117/FFFFFF?text=Your+Banner+Here)
+![Profile Banner](https://i.redd.it/n8agw6z2smyb1.gif)
 
 ### Hi there, <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> I'm Marko Spasojevic
 
