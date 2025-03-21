@@ -63,7 +63,7 @@ Below is a table of projects I have worked on. Each row includes the project nam
 {
   "name": "Marko Spasojevic",
   "role": "Full Stack Developer",
-  "location": "Some Location, World",
+  "location": "Čačak, Serbia",
   "technologies": [
     "HTML", 
     "CSS", 
