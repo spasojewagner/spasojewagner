@@ -1,7 +1,4 @@
-<!--
-    This is an example GitHub README file for the "Marko Spasojevic" profile.
-    Modify the details, links, and sections as you wish.
--->
+
 
 <div align="center">
 
@@ -47,7 +44,7 @@
 
 ## [ Projects ]
 
-Below is a table of projects I have worked on. Each row includes the project name, a GitHub repository link, a YouTube demo link (with a small icon), and a list of the programming languages/technologies used.
+Below is a table of projects I have worked on. Each row includes the project name, a GitHub repository link, a YouTube demo link , and a list of the programming languages/technologies used.
 
 | **Project Name**   | **GitHub Link**                                             | **YouTube Demo**                                                                | **Languages/Technologies Used**                     |
 |--------------------|-------------------------------------------------------------|---------------------------------------------------------------------------------|-------------------------------------------------------|
@@ -56,7 +53,7 @@ Below is a table of projects I have worked on. Each row includes the project nam
 | **Project Three**  | [GitHub Repo](https://github.com/username/project-three)    | [<img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white" height="20">](https://youtu.be/example3) | Java, Spring Boot (or similar, as needed)            |
 | **Project Four**   | [GitHub Repo](https://github.com/username/project-four)     | [<img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white" height="20">](https://youtu.be/example4) | Python, Flask (or Django, depending on your use)      |
 
-> **Note:** Customize the project names, links, and technologies according to your projects.
+
 
 ---
 
