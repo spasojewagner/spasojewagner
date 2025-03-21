@@ -74,5 +74,5 @@ Below is a table of projects I have worked on. Each row includes the project nam
     "Python", 
     "Java"
   ],
-  "interests": ["Web Development", "UI/UX", "Open Source", "Machine Learning? (optional)"]
+  "interests": ["Web Development", "UI/UX", Gym]
 }
