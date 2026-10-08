@@ -1,25 +1,26 @@
 ## Marko Spasojević
 
-Full-stack developer from Čačak, Serbia. I work across the whole stack, mostly TypeScript and React on the front end with Node.js or Laravel behind it. Over the last year most of my work has moved toward LLM integration: agents, retrieval pipelines, and MCP servers that let AI clients work with real business systems.
+📍 Full-stack developer from Čačak, Serbia. I work across the whole stack, mostly TypeScript and React on the front end with Node.js or Laravel behind it.
 
-**Experience**
+🤖 Over the last year most of my work has moved toward LLM integration: agents, retrieval pipelines, and MCP servers that let AI clients work with real business systems.
+
+**💼 Experience**
 - AI Engineer, Vandetta Group (xAI contract), 2025. Code samples, interactive environments and output evaluation used to train Grok.
 - Frontend Developer, Riderly Digital Solutions, 2023–2024. Fleet management SaaS and client websites.
 
-**Education**
-B.Sc. Information Technology, Faculty of Technical Sciences Čačak, 2022–2026
+**🎓 Education**
+- B.Sc. Information Technology, Faculty of Technical Sciences Čačak, 2022–2026
 
 ### Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Stem Agent](https://github.com/spasojewagner/stem-agent) | Turns vague specs into working JavaScript. A separate evaluator model writes and runs the tests, and the agent evolves its strategy set between runs. | Python, OpenAI API, Node.js |
-| [TurBot](https://github.com/spasojewagner/turbot) | RAG assistant over a travel agency's PDF price lists. Every answer cites its source, and it says so when the data isn't there. [Live](https://turbot-iota.vercel.app) | Next.js, LangChain, Pinecone |
-| [mini-order-admin](https://github.com/spasojewagner/mini-order-admin) | Orders, stock and customers with a Filament admin panel, a React storefront and an MCP server for AI clients. | Laravel 12, Livewire, Inertia |
-| [AuctionChain](https://github.com/spasojewagner/auctionchain) | Auction platform with escrow: funds lock on bid, refund when outbid, release on delivery. Stripe and MetaMask payments, AI-generated listings. | Laravel 11, MySQL, Groq |
-| [TehnoTrade](https://github.com/spasojewagner/e-commerce-tehnotrade) | E-commerce platform for a client, with admin analytics and a catalog migration from WordPress to MongoDB. | React, TypeScript, Express |
-| [VoxElla](https://github.com/spasojewagner/chat-app-voxella) | Real-time chat with private conversations and media uploads. [Live](https://chat-app-voxella-1.onrender.com/) | React 19, Socket.IO, MongoDB |
-| [Crypto Platform](https://github.com/spasojewagner/crypto-platform-typescript) | Order book with limit and market orders, MetaMask login and on-chain balances. | Solidity, Hardhat, React |
+| [TurBot](https://github.com/spasojewagner/turbot) | RAG assistant over a travel agency's PDF price lists. Every answer cites its source, and it says so when the data isn't there. [Live](https://turbot-iota.vercel.app) | <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat" /> |
+| [mini-order-admin](https://github.com/spasojewagner/mini-order-admin) | Orders, stock and customers with a Filament admin panel, a React storefront and an MCP server for AI clients. | <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/-Livewire-4E56A6?style=flat&logo=livewire&logoColor=white" /> <img src="https://img.shields.io/badge/-Filament-FDAE4B?style=flat&logo=filament&logoColor=black" /> <img src="https://img.shields.io/badge/-Inertia-9553E9?style=flat&logo=inertia&logoColor=white" /> |
+| [AuctionChain](https://github.com/spasojewagner/auctionchain) | Auction platform with escrow: funds lock on bid, refund when outbid, release on delivery. Stripe and MetaMask payments, AI-generated listings. | <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white" /> <img src="https://img.shields.io/badge/-Groq-F55036?style=flat" /> |
+| [TehnoTrade](https://github.com/spasojewagner/e-commerce-tehnotrade) | E-commerce platform for a client, with admin analytics and a catalog migration from WordPress to MongoDB. | <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> |
+| [VoxElla](https://github.com/spasojewagner/chat-app-voxella) | Real-time chat with private conversations and media uploads. [Live](https://chat-app-voxella-1.onrender.com/) | <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" /> |
+| [Crypto Platform](https://github.com/spasojewagner/crypto-platform-typescript) | Order book with limit and market orders, MetaMask login and on-chain balances. | <img src="https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white" /> <img src="https://img.shields.io/badge/-Hardhat-FFF100?style=flat" /> <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" /> |
 
 ### Tech stack
 
@@ -74,6 +75,6 @@ B.Sc. Information Technology, Faculty of Technical Sciences Čačak, 2022–2026
 
 </div>
 
-Outside of code, I've been doing street workout for six years.
+🏋️ Outside of code, I've been doing street workout for six years.
 
-[LinkedIn](https://www.linkedin.com/in/marko-spasojevicmetoda) · markospasojevic758@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/marko-spasojevicmetoda) · markospasojevic758@gmail.com
